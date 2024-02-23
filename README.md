@@ -5,3 +5,6 @@
 
 Another way
 ![alt text](https://banzaicloud.github.io/koperator-docs/docs/external-listener/lb-access.png)
+
+## 2 service for cocmmunicaion 
+https://github.com/mmohamed/kafka-kubernetes.git
